@@ -1,0 +1,27 @@
+{
+    "todoLists": [
+        {
+            "id": 1,
+            "name": "Plan a trip",
+            "color": "#24A6D9",
+            "tasks": [
+                {
+                    "title": "Book flight",
+                    "isCompleted": true
+                },
+                {
+                    "title": "Passport check",
+                    "isCompleted": false
+                },
+                {
+                    "title": "Reserve hotel room",
+                    "isCompleted": true
+                },
+                {
+                    "title": "Pack luggage",
+                    "isCompleted": false
+                }
+            ]
+        }
+    ]
+}
